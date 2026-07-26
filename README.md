@@ -70,7 +70,7 @@ Inventory-Management/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/inventory-management-system.git
+git clone https://github.com/Rashmirekhamahalik/Inventory-Management-System.git
 ```
 
 Or download the ZIP file.
