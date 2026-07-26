@@ -206,21 +206,14 @@ Exit
 
 Add screenshots here:
 
-- Home Screen
-- Add Product Window
-- Billing Window
-- Search Product
-- Database Tables
+<img width="1920" height="1080" alt="Screenshot 2026-07-26 133949" src="https://github.com/user-attachments/assets/5d035e36-89b1-4077-a8e6-c87b0328bbbf" />
 
-Example:
 
-```
-screenshots/
-│
-├── home.png
-├── add_product.png
-├── billing.png
-├── database.png
+<img width="1920" height="1080" alt="Screenshot 2026-07-26 134218" src="https://github.com/user-attachments/assets/994f29d4-8c59-4c56-aa9b-47341e109d86" />
+
+
+<img width="997" height="624" alt="Screenshot 2026-07-26 134531" src="https://github.com/user-attachments/assets/3d655ecd-0bc4-4442-bc57-f450d9a54dff" />
+
 ```
 
 ---
